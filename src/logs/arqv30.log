@@ -1,0 +1,1118 @@
+2025-08-02 21:37:06,280 - services.groq_client - INFO - ✅ Cliente Groq (llama-3.3-70b-versatile) inicializado com sucesso.
+2025-08-02 21:37:06,281 - services.ai_manager - INFO - ✅ Gemini (gemini-2.0-flash-exp) inicializado com sucesso
+2025-08-02 21:37:06,294 - services.ai_manager - INFO - ✅ OpenAI (gpt-3.5-turbo) inicializado com sucesso
+2025-08-02 21:37:06,294 - services.ai_manager - INFO - ✅ Groq (llama-3.3-70b-versatile) inicializado com sucesso
+2025-08-02 21:37:06,295 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-08-02 21:37:06,295 - services.ai_manager - INFO - 🤖 AI Manager inicializado com 4 provedores disponíveis.
+2025-08-02 21:37:06,406 - services.production_search_manager - INFO - Production Search Manager inicializado com 4 provedores
+2025-08-02 21:37:06,419 - services.auto_save_manager - INFO - ✅ Auto Save Manager inicializado: relatorios_intermediarios
+2025-08-02 21:37:06,452 - services.playwright_extractor - INFO - ✅ Playwright Extractor inicializado
+2025-08-02 21:37:06,536 - services.selenium_extractor - INFO - ✅ Selenium Extractor inicializado
+2025-08-02 21:37:06,719 - services.robust_content_extractor - INFO - 🔧 Robust Content Extractor inicializado
+2025-08-02 21:37:06,720 - services.robust_content_extractor - INFO - 📚 Extratores disponíveis: ['trafilatura', 'readability', 'newspaper', 'beautifulsoup', 'pdf_pypdf2', 'pdf_pdfplumber', 'playwright_dynamic', 'selenium_js']
+2025-08-02 21:37:06,728 - services.content_synthesis_engine - INFO - Content Synthesis Engine inicializado
+2025-08-02 21:37:06,732 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado
+2025-08-02 21:37:06,738 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado
+2025-08-02 21:37:06,748 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-08-02 21:37:06,759 - services.enhanced_pre_pitch_architect - INFO - Enhanced Pre-Pitch Architect inicializado
+2025-08-02 21:37:06,766 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-08-02 21:37:06,772 - services.local_file_manager - INFO - Local File Manager inicializado: C:\Users\user\Desktop\502 v80 project-bolt-github-ydts85nr\project\src\services\..\..\analyses_data
+2025-08-02 21:37:06,773 - services.enhanced_analysis_pipeline - INFO - Enhanced Analysis Pipeline inicializado com Gemini 2.5 Pro
+2025-08-02 21:37:06,777 - services.quality_assurance_manager - INFO - Quality Assurance Manager inicializado com tolerância zero
+2025-08-02 21:37:07,180 - services.supabase_client - INFO - ✅ Supabase client inicializado com sucesso
+2025-08-02 21:37:07,180 - database - INFO - ✅ Database Manager inicializado com Supabase + Local Files
+2025-08-02 21:37:07,249 - services.consolidated_report_generator - INFO - Consolidated Report Generator inicializado
+2025-08-02 21:37:07,251 - services.gemini_2_5_client - INFO - ✅ Gemini 2.5 Pro Client inicializado com configurações avançadas
+2025-08-02 21:37:07,256 - __main__ - INFO - ✅ Blueprint analysis registrado
+2025-08-02 21:37:07,411 - __main__ - INFO - ✅ Blueprint pdf_generator registrado
+2025-08-02 21:37:07,414 - __main__ - INFO - ✅ Blueprint monitoring registrado
+2025-08-02 21:37:07,419 - __main__ - INFO - ✅ Blueprint user registrado
+2025-08-02 21:37:07,420 - __main__ - INFO - ✅ Blueprint progress registrado
+2025-08-02 21:37:07,427 - __main__ - INFO - ✅ Blueprint files registrado
+2025-08-02 21:37:07,428 - __main__ - INFO - 🚀 Iniciando ARQV30 Enhanced v2.0 em MODO PRODUÇÃO
+2025-08-02 21:37:07,428 - __main__ - INFO - 🔒 Debug desabilitado, headers de segurança habilitados
+2025-08-02 21:37:07,429 - __main__ - INFO - Servidor: http://0.0.0.0:5000
+2025-08-02 21:37:07,429 - __main__ - INFO - Encoding: UTF-8
+2025-08-02 21:37:07,429 - __main__ - INFO - Locale: ('pt_BR', 'UTF-8')
+2025-08-02 21:37:07,430 - __main__ - INFO - 🔍 Provedores de busca ativos: google, serper, bing, duckduckgo
+2025-08-02 21:37:07,444 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.5:5000
+2025-08-02 21:37:07,444 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-02 21:37:46,726 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 21:37:46] "GET / HTTP/1.1" 200 -
+2025-08-02 21:37:46,752 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 21:37:46] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2025-08-02 21:37:46,969 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 21:37:46] "GET /api/app_status HTTP/1.1" 200 -
+2025-08-02 21:37:47,177 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 21:37:47] "[33mGET /static/images/favicon.ico HTTP/1.1[0m" 404 -
+2025-08-02 21:38:21,381 - routes.analysis - INFO - 🚀 Iniciando análise de mercado aprimorada
+2025-08-02 21:38:21,383 - services.auto_save_manager - INFO - 💾 Etapa 'session_metadata' salva: relatorios_intermediarios\session_1754181466761_2mi0kxehm\session_metadata_20250802_213821_382.json
+2025-08-02 21:38:21,383 - services.auto_save_manager - INFO - 🚀 Sessão iniciada: session_1754181466761_2mi0kxehm
+2025-08-02 21:38:21,384 - services.auto_save_manager - INFO - 💾 Etapa 'requisicao_analise' salva: relatorios_intermediarios\analise_completa\session_1754181466761_2mi0kxehm\requisicao_analise_20250802_213821_384.json
+2025-08-02 21:38:21,384 - routes.analysis - INFO - 📊 Dados recebidos: Segmento=TELEMEDICINA, Produto=CURSO DE TELEMEDICINA
+2025-08-02 21:38:21,384 - routes.analysis - INFO - 🔍 Query de pesquisa: MÉDICOS INTERESSADOS EM APRENDER TELEMEDICINA
+2025-08-02 21:38:21,385 - services.auto_save_manager - INFO - 💾 Etapa 'query_preparada' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\query_preparada_20250802_213821_385.json
+2025-08-02 21:38:21,385 - routes.analysis - INFO - 🚀 Executando análise aprimorada...
+2025-08-02 21:38:21,385 - services.enhanced_analysis_pipeline - INFO - 🚀 Iniciando análise aprimorada para TELEMEDICINA
+2025-08-02 21:38:21,386 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Executando pesquisa inteligente massiva...
+2025-08-02 21:38:21,386 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_213821_386.json
+2025-08-02 21:38:21,386 - services.enhanced_analysis_pipeline - INFO - 🔍 Iniciando pesquisa inteligente massiva
+2025-08-02 21:38:21,386 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: mercado TELEMEDICINA CURSO DE TELEMEDICINA Brasil ...
+2025-08-02 21:38:21,387 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_213821_387.json
+2025-08-02 21:38:21,387 - services.production_search_manager - INFO - 🔍 Buscando com google: mercado TELEMEDICINA CURSO DE TELEMEDICINA Brasil 2024 dados estatísticas crescimento
+2025-08-02 21:38:21,826 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:38:21,827 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.terra.com.br/noticias/telemedicina-deve-movimentar-u-290-bilhoes-em-2028,8a5e7702093cdda2ea73062867e34e2d4hr1vdxl.html
+2025-08-02 21:38:22,579 - services.robust_content_extractor - INFO - 📥 HTML baixado: 149720 caracteres
+2025-08-02 21:38:22,623 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:22,650 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.terra.com.br/noticias/telemedicina-deve-movimentar-u-290-bilhoes-em-2028,8a5e7702093cdda2ea73062867e34e2d4hr1vdxl.html: 3151 caracteres, 477 palavras
+2025-08-02 21:38:22,651 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213822_650.json
+2025-08-02 21:38:22,653 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3151 caracteres em 0.03s
+2025-08-02 21:38:22,655 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.scielo.br/j/sausoc/a/htDNpswTKXwVr667LV9V5cP/
+2025-08-02 21:38:22,794 - services.robust_content_extractor - INFO - 📥 HTML baixado: 147049 caracteres
+2025-08-02 21:38:22,842 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:22,913 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.scielo.br/j/sausoc/a/htDNpswTKXwVr667LV9V5cP/: 36469 caracteres, 5392 palavras
+2025-08-02 21:38:22,915 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213822_914.json
+2025-08-02 21:38:22,919 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 36469 caracteres em 0.06s
+2025-08-02 21:38:22,920 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.salario.com.br/carreira/guia-profissoes-e-carreiras-em-alta-no-futuro/
+2025-08-02 21:38:23,584 - services.robust_content_extractor - INFO - 📥 HTML baixado: 360148 caracteres
+2025-08-02 21:38:23,630 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:23,705 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.salario.com.br/carreira/guia-profissoes-e-carreiras-em-alta-no-futuro/: 31584 caracteres, 5037 palavras
+2025-08-02 21:38:23,706 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213823_706.json
+2025-08-02 21:38:23,711 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 31584 caracteres em 0.07s
+2025-08-02 21:38:23,711 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fortunebusinessinsights.com/pt/5g-in-healthcare-market-111568
+2025-08-02 21:38:25,055 - services.robust_content_extractor - INFO - 📥 HTML baixado: 212468 caracteres
+2025-08-02 21:38:25,099 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:25,151 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fortunebusinessinsights.com/pt/5g-in-healthcare-market-111568: 9160 caracteres, 1411 palavras
+2025-08-02 21:38:25,152 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213825_152.json
+2025-08-02 21:38:25,157 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 9160 caracteres em 0.05s
+2025-08-02 21:38:25,157 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://saudedigitalbrasil.com.br/saude-digital-brasil-lanca-o-primeiro-curso-de-boas-praticas-de-telemedicina-e-telessaude-da-america-latina/
+2025-08-02 21:38:25,367 - services.robust_content_extractor - INFO - 📥 HTML baixado: 156054 caracteres
+2025-08-02 21:38:25,402 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:25,429 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://saudedigitalbrasil.com.br/saude-digital-brasil-lanca-o-primeiro-curso-de-boas-praticas-de-telemedicina-e-telessaude-da-america-latina/: 4999 caracteres, 737 palavras
+2025-08-02 21:38:25,429 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213825_429.json
+2025-08-02 21:38:25,430 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4999 caracteres em 0.03s
+2025-08-02 21:38:25,438 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:25,881 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431636 caracteres
+2025-08-02 21:38:25,889 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:25,899 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:26,021 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:26,021 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:38:26,023 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:38:26,696 - services.playwright_extractor - INFO - ✅ Browser Playwright inicializado
+2025-08-02 21:38:26,788 - services.playwright_extractor - INFO - 🌐 Navegando para: https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:30,300 - services.playwright_extractor - INFO - 🔍 Tipo de página detectado: auth_required
+2025-08-02 21:38:30,308 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:30,308 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:38:30,309 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:38:30,323 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:38:30,334 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:30,334 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:38:30,337 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:38:30,369 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:30,369 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:38:30,375 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:38:30,383 - WDM - INFO - ====== WebDriver manager ======
+2025-08-02 21:38:31,041 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:38:31,137 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:38:31,219 - WDM - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-08-02 21:38:31,219 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:38:31,414 - WDM - INFO - WebDriver version 138.0.7204.183 selected
+2025-08-02 21:38:31,420 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-02 21:38:31,421 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-02 21:38:31,560 - WDM - INFO - Driver downloading response is 200
+2025-08-02 21:38:31,891 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:38:32,056 - WDM - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-02 21:38:32,062 - services.selenium_extractor - ERROR - ❌ Erro ao inicializar driver Selenium: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-08-02 21:38:32,063 - services.selenium_extractor - ERROR - ❌ Erro na extração Selenium: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-08-02 21:38:32,063 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:32,064 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:38:32,065 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:38:32,078 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:32,079 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:38:32,079 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:38:32,086 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/C74NUBLsuw1/
+2025-08-02 21:38:32,088 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_213832_088.json
+2025-08-02 21:38:32,089 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.ifsc.edu.br/post-ifsc-verifica/-/asset_publisher/uII70Nv266Xk/content/id/3622206/como-a-telemedicina-est%C3%A1-nos-ajudando-na-pandemia
+2025-08-02 21:38:32,900 - services.robust_content_extractor - INFO - 📥 HTML baixado: 741285 caracteres
+2025-08-02 21:38:33,157 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:33,246 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.ifsc.edu.br/post-ifsc-verifica/-/asset_publisher/uII70Nv266Xk/content/id/3622206/como-a-telemedicina-est%C3%A1-nos-ajudando-na-pandemia: 19855 caracteres, 3115 palavras
+2025-08-02 21:38:33,247 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213833_247.json
+2025-08-02 21:38:33,248 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 19855 caracteres em 0.09s
+2025-08-02 21:38:33,249 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.faculdadeunimed.edu.br/cursos/
+2025-08-02 21:38:34,454 - services.robust_content_extractor - INFO - 📥 HTML baixado: 378631 caracteres
+2025-08-02 21:38:34,513 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.faculdadeunimed.edu.br/cursos/
+2025-08-02 21:38:34,668 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.faculdadeunimed.edu.br/cursos/: 4563 caracteres, 450 palavras
+2025-08-02 21:38:34,669 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_213834_668.json
+2025-08-02 21:38:35,170 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: análise competitiva TELEMEDICINA CURSO DE TELEMEDI...
+2025-08-02 21:38:35,171 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_213835_170.json
+2025-08-02 21:38:35,172 - services.production_search_manager - INFO - 🔍 Buscando com google: análise competitiva TELEMEDICINA CURSO DE TELEMEDICINA principais players
+2025-08-02 21:38:35,579 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:38:35,579 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://eaesp.fgv.br/producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso
+2025-08-02 21:38:35,682 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://eaesp.fgv.br/producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (tentativa 1): HTTPSConnectionPool(host='eaesp.fgv.br', port=443): Max retries exceeded with url: /producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:992)')))
+2025-08-02 21:38:38,975 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://eaesp.fgv.br/producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (tentativa 2): HTTPSConnectionPool(host='eaesp.fgv.br', port=443): Max retries exceeded with url: /producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:992)')))
+2025-08-02 21:38:41,700 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://eaesp.fgv.br/producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (tentativa 3): HTTPSConnectionPool(host='eaesp.fgv.br', port=443): Max retries exceeded with url: /producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:992)')))
+2025-08-02 21:38:41,701 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://eaesp.fgv.br/producao-intelectual/eficiencia-e-eficacia-inovacoes-telemedicina-praticas-hospitalares-estudo-caso
+2025-08-02 21:38:41,707 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_213841_707.json
+2025-08-02 21:38:41,708 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fiemg.com.br/area-de-interesse/telemedicina/
+2025-08-02 21:38:42,427 - services.robust_content_extractor - INFO - 📥 HTML baixado: 163574 caracteres
+2025-08-02 21:38:42,461 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.fiemg.com.br/area-de-interesse/telemedicina/
+2025-08-02 21:38:42,548 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fiemg.com.br/area-de-interesse/telemedicina/: 3167 caracteres, 446 palavras
+2025-08-02 21:38:42,549 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_213842_548.json
+2025-08-02 21:38:42,553 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
+2025-08-02 21:38:42,775 - services.robust_content_extractor - INFO - 📥 HTML baixado: 237449 caracteres
+2025-08-02 21:38:42,859 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:43,102 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm: 50003 caracteres, 7644 palavras
+2025-08-02 21:38:43,103 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213843_102.json
+2025-08-02 21:38:43,107 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 50003 caracteres em 0.23s
+2025-08-02 21:38:43,108 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.sphericalinsights.com/pt/reports/digital-healthcare-market
+2025-08-02 21:38:44,310 - services.robust_content_extractor - INFO - 📥 HTML baixado: 95722 caracteres
+2025-08-02 21:38:44,337 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:44,384 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.sphericalinsights.com/pt/reports/digital-healthcare-market: 12998 caracteres, 1969 palavras
+2025-08-02 21:38:44,385 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213844_385.json
+2025-08-02 21:38:44,386 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 12998 caracteres em 0.04s
+2025-08-02 21:38:44,390 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://dialnet.unirioja.es/descarga/articulo/5767128.pdf
+2025-08-02 21:38:44,391 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:38:47,494 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 20097 caracteres
+2025-08-02 21:38:49,369 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://dialnet.unirioja.es/descarga/articulo/5767128.pdf: 20097 caracteres, 3059 palavras
+2025-08-02 21:38:49,374 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_213849_373.json
+2025-08-02 21:38:49,374 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fortunebusinessinsights.com/pt/5g-in-healthcare-market-111568
+2025-08-02 21:38:49,851 - services.robust_content_extractor - INFO - 📥 HTML baixado: 212468 caracteres
+2025-08-02 21:38:49,896 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:49,948 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fortunebusinessinsights.com/pt/5g-in-healthcare-market-111568: 9160 caracteres, 1411 palavras
+2025-08-02 21:38:49,949 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213849_949.json
+2025-08-02 21:38:49,956 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 9160 caracteres em 0.05s
+2025-08-02 21:38:49,956 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://guiatelemedicina.com.br/telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/
+2025-08-02 21:38:49,982 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://guiatelemedicina.com.br/telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (tentativa 1): HTTPSConnectionPool(host='guiatelemedicina.com.br', port=443): Max retries exceeded with url: /telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029D8F591110>: Failed to resolve 'guiatelemedicina.com.br' ([Errno 11001] getaddrinfo failed)"))
+2025-08-02 21:38:52,170 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://guiatelemedicina.com.br/telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (tentativa 2): HTTPSConnectionPool(host='guiatelemedicina.com.br', port=443): Max retries exceeded with url: /telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029D952F9E90>: Failed to resolve 'guiatelemedicina.com.br' ([Errno 11001] getaddrinfo failed)"))
+2025-08-02 21:38:55,707 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://guiatelemedicina.com.br/telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (tentativa 3): HTTPSConnectionPool(host='guiatelemedicina.com.br', port=443): Max retries exceeded with url: /telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029D952FB950>: Failed to resolve 'guiatelemedicina.com.br' ([Errno 11001] getaddrinfo failed)"))
+2025-08-02 21:38:55,707 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://guiatelemedicina.com.br/telemedicina/regulamentacao-da-telemedicina-no-brasil-entenda-as-principais-regras-e-oportunidades/
+2025-08-02 21:38:55,710 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_213855_709.json
+2025-08-02 21:38:55,711 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fortunebusinessinsights.com/pt/time-series-databases-software-market-111260
+2025-08-02 21:38:56,233 - services.robust_content_extractor - INFO - 📥 HTML baixado: 217583 caracteres
+2025-08-02 21:38:56,280 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:56,336 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fortunebusinessinsights.com/pt/time-series-databases-software-market-111260: 11954 caracteres, 1823 palavras
+2025-08-02 21:38:56,338 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213856_337.json
+2025-08-02 21:38:56,339 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 11954 caracteres em 0.05s
+2025-08-02 21:38:56,840 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: tendências TELEMEDICINA CURSO DE TELEMEDICINA inov...
+2025-08-02 21:38:56,841 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_213856_840.json
+2025-08-02 21:38:56,842 - services.production_search_manager - INFO - 🔍 Buscando com google: tendências TELEMEDICINA CURSO DE TELEMEDICINA inovação tecnologia futuro
+2025-08-02 21:38:57,306 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:38:57,306 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.unit.br/blog/impacto-da-telemedicina-na-tecnologia
+2025-08-02 21:38:57,607 - services.robust_content_extractor - INFO - 📥 HTML baixado: 47581 caracteres
+2025-08-02 21:38:57,617 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:57,646 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.unit.br/blog/impacto-da-telemedicina-na-tecnologia: 6702 caracteres, 997 palavras
+2025-08-02 21:38:57,648 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_213857_646.json
+2025-08-02 21:38:57,662 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 6702 caracteres em 0.03s
+2025-08-02 21:38:57,674 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,156 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431729 caracteres
+2025-08-02 21:38:58,163 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:38:58,175 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,175 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:38:58,176 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:38:58,184 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,185 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:38:58,190 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:38:58,201 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:38:58,211 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,211 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:38:58,212 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:38:58,228 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,228 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:38:58,229 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:38:58,238 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,239 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:38:58,239 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:38:58,249 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,249 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:38:58,255 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:38:58,262 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DKHbRzQTW1T/
+2025-08-02 21:38:58,263 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_213858_263.json
+2025-08-02 21:38:58,271 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.uva.br/postagens/tendencias-em-enfermagem-o-futuro-dos-cuidados/
+2025-08-02 21:38:58,828 - services.robust_content_extractor - INFO - 📥 HTML baixado: 265991 caracteres
+2025-08-02 21:38:58,864 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.uva.br/postagens/tendencias-em-enfermagem-o-futuro-dos-cuidados/
+2025-08-02 21:38:58,954 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.uva.br/postagens/tendencias-em-enfermagem-o-futuro-dos-cuidados/: 8361 caracteres, 1189 palavras
+2025-08-02 21:38:58,956 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_213858_955.json
+2025-08-02 21:38:58,956 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portaltelemedicina.com.br/o-futuro-da-saude-digital-o-que-esperar
+2025-08-02 21:39:00,136 - services.robust_content_extractor - INFO - 📥 HTML baixado: 594136 caracteres
+2025-08-02 21:39:00,173 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://portaltelemedicina.com.br/o-futuro-da-saude-digital-o-que-esperar
+2025-08-02 21:39:00,255 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://portaltelemedicina.com.br/o-futuro-da-saude-digital-o-que-esperar: 23462 caracteres, 3415 palavras
+2025-08-02 21:39:00,256 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_213900_255.json
+2025-08-02 21:39:00,257 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19/pt-BR
+2025-08-02 21:39:30,359 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 1 para https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19/pt-BR
+2025-08-02 21:40:02,598 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 2 para https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19/pt-BR
+2025-08-02 21:40:36,495 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 3 para https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19/pt-BR
+2025-08-02 21:40:36,496 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19/pt-BR
+2025-08-02 21:40:36,497 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214036_497.json
+2025-08-02 21:40:36,498 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.grautecnico.com.br/blog/o-futuro-da-saude-perspectivas-para-profissionais-tecnicos
+2025-08-02 21:40:36,802 - services.robust_content_extractor - INFO - 📥 HTML baixado: 189398 caracteres
+2025-08-02 21:40:36,825 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:40:36,842 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.grautecnico.com.br/blog/o-futuro-da-saude-perspectivas-para-profissionais-tecnicos: 5577 caracteres, 825 palavras
+2025-08-02 21:40:36,844 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214036_843.json
+2025-08-02 21:40:36,845 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 5577 caracteres em 0.02s
+2025-08-02 21:40:36,850 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://educacaomedica.afya.com.br/blog/tendencias-especialidades-medicas
+2025-08-02 21:40:37,322 - services.robust_content_extractor - INFO - 📥 HTML baixado: 81285 caracteres
+2025-08-02 21:40:37,337 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:40:37,361 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://educacaomedica.afya.com.br/blog/tendencias-especialidades-medicas: 4738 caracteres, 704 palavras
+2025-08-02 21:40:37,362 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214037_362.json
+2025-08-02 21:40:37,362 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4738 caracteres em 0.02s
+2025-08-02 21:40:37,364 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://noticias.portaldaindustria.com.br/noticias/brasil-industria/robotica-e-saude-sesi-es-vence-fora-do-pais-e-sesi-sc-recebe-estacoes-de-telemedicina/
+2025-08-02 21:40:38,467 - services.robust_content_extractor - INFO - 📥 HTML baixado: 75780 caracteres
+2025-08-02 21:40:38,489 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:40:38,521 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://noticias.portaldaindustria.com.br/noticias/brasil-industria/robotica-e-saude-sesi-es-vence-fora-do-pais-e-sesi-sc-recebe-estacoes-de-telemedicina/: 5465 caracteres, 847 palavras
+2025-08-02 21:40:38,522 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214038_521.json
+2025-08-02 21:40:38,523 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 5465 caracteres em 0.03s
+2025-08-02 21:40:39,028 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: demanda CURSO DE TELEMEDICINA Brasil consumo compo...
+2025-08-02 21:40:39,029 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214039_028.json
+2025-08-02 21:40:39,030 - services.production_search_manager - INFO - 🔍 Buscando com google: demanda CURSO DE TELEMEDICINA Brasil consumo comportamento cliente
+2025-08-02 21:40:39,460 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:40:39,460 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.neoway.com.br/
+2025-08-02 21:40:41,243 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1523324 caracteres
+2025-08-02 21:40:41,285 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.neoway.com.br/
+2025-08-02 21:40:41,351 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.neoway.com.br/: 3794 caracteres, 538 palavras
+2025-08-02 21:40:41,353 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214041_352.json
+2025-08-02 21:40:41,357 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,753 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431637 caracteres
+2025-08-02 21:40:41,763 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:40:41,777 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,778 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:40:41,778 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:40:41,787 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,787 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:40:41,788 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:40:41,800 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:40:41,812 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,812 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:40:41,812 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:40:41,830 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,830 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:40:41,830 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:40:41,839 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,839 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:40:41,839 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:40:41,849 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,849 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:40:41,856 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:40:41,861 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DJ4cDXxg6oI/
+2025-08-02 21:40:41,862 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214041_862.json
+2025-08-02 21:40:41,866 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/completo_serie_cuidados_paliativos_volume_1.pdf
+2025-08-02 21:40:41,866 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:41:06,473 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:41:06,484 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/completo_serie_cuidados_paliativos_volume_1.pdf: 50003 caracteres, 6595 palavras
+2025-08-02 21:41:06,485 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214106_484.json
+2025-08-02 21:41:06,486 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:06,912 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431638 caracteres
+2025-08-02 21:41:06,920 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:06,935 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:06,935 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:41:06,936 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:41:06,950 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:06,950 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:41:06,951 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:41:06,962 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:41:06,972 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:06,973 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:41:06,976 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:41:06,993 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:06,993 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:41:06,994 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:41:07,003 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:07,003 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:41:07,008 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:41:07,017 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:07,019 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:41:07,020 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:41:07,030 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DFf045hvyO1/
+2025-08-02 21:41:07,032 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214107_031.json
+2025-08-02 21:41:07,041 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fortunebusinessinsights.com/pt/system-of-insight-market-111343
+2025-08-02 21:41:07,814 - services.robust_content_extractor - INFO - 📥 HTML baixado: 214639 caracteres
+2025-08-02 21:41:07,860 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:07,917 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fortunebusinessinsights.com/pt/system-of-insight-market-111343: 11124 caracteres, 1696 palavras
+2025-08-02 21:41:07,918 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214107_918.json
+2025-08-02 21:41:07,923 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 11124 caracteres em 0.05s
+2025-08-02 21:41:07,924 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,226 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431636 caracteres
+2025-08-02 21:41:08,234 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:08,244 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,244 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:41:08,245 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:41:08,253 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,254 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:41:08,259 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:41:08,270 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:41:08,281 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,281 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:41:08,282 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:41:08,301 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,303 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:41:08,304 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:41:08,317 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,318 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:41:08,325 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:41:08,336 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,336 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:41:08,341 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:41:08,347 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DJj8YFWpj3G/
+2025-08-02 21:41:08,348 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214108_348.json
+2025-08-02 21:41:08,357 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://repositorio.ufc.br/bitstream/riufc/26977/1/2014_tcc_jgmascarenhas.pdf
+2025-08-02 21:41:08,357 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:41:16,418 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R359' is an invalid float value
+2025-08-02 21:41:16,419 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R361' is an invalid float value
+2025-08-02 21:41:16,471 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R372' is an invalid float value
+2025-08-02 21:41:16,472 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R374' is an invalid float value
+2025-08-02 21:41:16,474 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R375' is an invalid float value
+2025-08-02 21:41:16,478 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R376' is an invalid float value
+2025-08-02 21:41:16,479 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R377' is an invalid float value
+2025-08-02 21:41:16,480 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R378' is an invalid float value
+2025-08-02 21:41:16,480 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R379' is an invalid float value
+2025-08-02 21:41:16,525 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R391' is an invalid float value
+2025-08-02 21:41:16,526 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R393' is an invalid float value
+2025-08-02 21:41:16,528 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R394' is an invalid float value
+2025-08-02 21:41:16,531 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R395' is an invalid float value
+2025-08-02 21:41:16,540 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R398' is an invalid float value
+2025-08-02 21:41:16,540 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R399' is an invalid float value
+2025-08-02 21:41:16,584 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R411' is an invalid float value
+2025-08-02 21:41:16,584 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R413' is an invalid float value
+2025-08-02 21:41:16,586 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R414' is an invalid float value
+2025-08-02 21:41:16,591 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R415' is an invalid float value
+2025-08-02 21:41:16,638 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R429' is an invalid float value
+2025-08-02 21:41:16,639 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R431' is an invalid float value
+2025-08-02 21:41:16,641 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R432' is an invalid float value
+2025-08-02 21:41:16,645 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R433' is an invalid float value
+2025-08-02 21:41:16,691 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R445' is an invalid float value
+2025-08-02 21:41:16,691 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R447' is an invalid float value
+2025-08-02 21:41:16,799 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R472' is an invalid float value
+2025-08-02 21:41:16,800 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R474' is an invalid float value
+2025-08-02 21:41:16,844 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R486' is an invalid float value
+2025-08-02 21:41:16,844 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R488' is an invalid float value
+2025-08-02 21:41:16,887 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R500' is an invalid float value
+2025-08-02 21:41:16,888 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R502' is an invalid float value
+2025-08-02 21:41:16,892 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R506' is an invalid float value
+2025-08-02 21:41:16,893 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R507' is an invalid float value
+2025-08-02 21:41:16,985 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R528' is an invalid float value
+2025-08-02 21:41:16,985 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R530' is an invalid float value
+2025-08-02 21:41:16,989 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R534' is an invalid float value
+2025-08-02 21:41:16,991 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R535' is an invalid float value
+2025-08-02 21:41:17,026 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R547' is an invalid float value
+2025-08-02 21:41:17,026 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'R549' is an invalid float value
+2025-08-02 21:41:17,765 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:41:17,775 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://repositorio.ufc.br/bitstream/riufc/26977/1/2014_tcc_jgmascarenhas.pdf: 50003 caracteres, 7515 palavras
+2025-08-02 21:41:17,775 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214117_775.json
+2025-08-02 21:41:17,776 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,083 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431724 caracteres
+2025-08-02 21:41:18,090 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:18,105 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,105 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:41:18,106 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:41:18,115 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,115 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:41:18,116 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:41:18,134 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:41:18,146 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,147 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:41:18,156 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:41:18,174 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,174 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:41:18,175 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:41:18,183 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,183 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:41:18,184 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:41:18,196 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,196 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:41:18,198 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:41:18,205 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DHbQqoPA--O/
+2025-08-02 21:41:18,206 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214118_205.json
+2025-08-02 21:41:18,707 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: preços CURSO DE TELEMEDICINA TELEMEDICINA benchmar...
+2025-08-02 21:41:18,709 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214118_708.json
+2025-08-02 21:41:18,710 - services.production_search_manager - INFO - 🔍 Buscando com google: preços CURSO DE TELEMEDICINA TELEMEDICINA benchmarks ticket médio
+2025-08-02 21:41:19,110 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:41:19,110 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://interrisk.com.br/i/risk-solution/beneficios-odonto/
+2025-08-02 21:41:20,882 - services.robust_content_extractor - INFO - 📥 HTML baixado: 146730 caracteres
+2025-08-02 21:41:20,909 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://interrisk.com.br/i/risk-solution/beneficios-odonto/
+2025-08-02 21:41:20,980 - services.robust_content_extractor - WARNING - ⚠️ Poucas palavras para https://interrisk.com.br/i/risk-solution/beneficios-odonto/: 86
+2025-08-02 21:41:20,980 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:21,013 - services.robust_content_extractor - WARNING - ⚠️ Poucas palavras para https://interrisk.com.br/i/risk-solution/beneficios-odonto/: 88
+2025-08-02 21:41:21,014 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 580 caracteres
+2025-08-02 21:41:21,027 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:41:21,059 - services.playwright_extractor - ERROR - ❌ Erro na extração Playwright: 'NoneType' object has no attribute 'send'
+2025-08-02 21:41:21,059 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://interrisk.com.br/i/risk-solution/beneficios-odonto/
+2025-08-02 21:41:21,060 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:41:21,060 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:41:21,102 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://interrisk.com.br/i/risk-solution/beneficios-odonto/: 60 < 200
+2025-08-02 21:41:21,103 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 60 caracteres
+2025-08-02 21:41:21,104 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:41:21,219 - services.robust_content_extractor - WARNING - ⚠️ Poucas palavras para https://interrisk.com.br/i/risk-solution/beneficios-odonto/: 95
+2025-08-02 21:41:21,220 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 625 caracteres
+2025-08-02 21:41:21,226 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:41:21,253 - WDM - INFO - ====== WebDriver manager ======
+2025-08-02 21:41:21,838 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:41:21,902 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-02 21:41:21,980 - WDM - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-02 21:41:21,982 - services.selenium_extractor - ERROR - ❌ Erro ao inicializar driver Selenium: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-08-02 21:41:21,987 - services.selenium_extractor - ERROR - ❌ Erro na extração Selenium: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-08-02 21:41:21,987 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://interrisk.com.br/i/risk-solution/beneficios-odonto/
+2025-08-02 21:41:21,988 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:41:21,989 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:41:22,024 - services.robust_content_extractor - WARNING - ⚠️ Poucas palavras para https://interrisk.com.br/i/risk-solution/beneficios-odonto/: 88
+2025-08-02 21:41:22,024 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 598 caracteres
+2025-08-02 21:41:22,029 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:41:22,058 - services.robust_content_extractor - INFO - ✅ Extração agressiva bem-sucedida: 3926 caracteres
+2025-08-02 21:41:22,059 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_fallback' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_fallback_20250802_214122_058.json
+2025-08-02 21:41:22,060 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,661 - services.robust_content_extractor - INFO - 📥 HTML baixado: 46716 caracteres
+2025-08-02 21:41:22,664 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:22,672 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://www.hospitalmoinhos.org.br/: 48 < 200
+2025-08-02 21:41:22,672 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 48 caracteres
+2025-08-02 21:41:22,672 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:41:22,677 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,679 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:41:22,679 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:41:22,683 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:41:22,686 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://www.hospitalmoinhos.org.br/: 48 < 200
+2025-08-02 21:41:22,686 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 48 caracteres
+2025-08-02 21:41:22,687 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:41:22,773 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,773 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:41:22,775 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:41:22,781 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,781 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:41:22,783 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:41:22,790 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,790 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:41:22,793 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:41:22,796 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.hospitalmoinhos.org.br/
+2025-08-02 21:41:22,797 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214122_796.json
+2025-08-02 21:41:22,797 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.reddit.com/r/productivity/comments/191th5x/have_you_tried_liven_how_does_it_work/?tl=pt-br
+2025-08-02 21:41:22,798 - services.url_resolver - INFO - 🔄 Resolvendo URL encurtada: https://www.reddit.com/r/productivity/comments/191th5x/have_you_tried_liven_how_does_it_work/?tl=pt-br
+2025-08-02 21:41:23,437 - services.robust_content_extractor - INFO - 📥 HTML baixado: 547545 caracteres
+2025-08-02 21:41:23,502 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:23,557 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.reddit.com/r/productivity/comments/191th5x/have_you_tried_liven_how_does_it_work/?tl=pt-br: 696 caracteres, 122 palavras
+2025-08-02 21:41:23,558 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214123_557.json
+2025-08-02 21:41:23,562 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 696 caracteres em 0.06s
+2025-08-02 21:41:23,563 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portalvet.royalcanin.com.br/saude-e-nutricao/negocios/telemedicina-veterinaria/
+2025-08-02 21:41:23,865 - services.robust_content_extractor - INFO - 📥 HTML baixado: 432296 caracteres
+2025-08-02 21:41:23,899 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:23,928 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://portalvet.royalcanin.com.br/saude-e-nutricao/negocios/telemedicina-veterinaria/: 10754 caracteres, 1460 palavras
+2025-08-02 21:41:23,929 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214123_928.json
+2025-08-02 21:41:23,929 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 10754 caracteres em 0.03s
+2025-08-02 21:41:23,929 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://star.med.br/lista-10-melhores-empresas-de-telemedicina/
+2025-08-02 21:41:24,086 - services.robust_content_extractor - INFO - 📥 HTML baixado: 107332 caracteres
+2025-08-02 21:41:24,103 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:24,130 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://star.med.br/lista-10-melhores-empresas-de-telemedicina/: 8622 caracteres, 1307 palavras
+2025-08-02 21:41:24,131 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214124_130.json
+2025-08-02 21:41:24,132 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 8622 caracteres em 0.03s
+2025-08-02 21:41:24,141 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.manole.com.br/
+2025-08-02 21:41:24,337 - services.robust_content_extractor - INFO - 📥 HTML baixado: 2113076 caracteres
+2025-08-02 21:41:24,417 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:24,592 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.manole.com.br/: 3727 caracteres, 575 palavras
+2025-08-02 21:41:24,593 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214124_592.json
+2025-08-02 21:41:24,597 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3727 caracteres em 0.17s
+2025-08-02 21:41:24,598 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P17701618ea044d911f31145761b29d11665b1379389.pdf
+2025-08-02 21:41:24,599 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:41:42,322 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:41:42,333 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P17701618ea044d911f31145761b29d11665b1379389.pdf: 50003 caracteres, 7446 palavras
+2025-08-02 21:41:42,334 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214142_333.json
+2025-08-02 21:41:42,334 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://unifor.br/web/graduacao/medicina
+2025-08-02 21:41:43,359 - services.robust_content_extractor - INFO - 📥 HTML baixado: 2113513 caracteres
+2025-08-02 21:41:44,885 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:46,799 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://unifor.br/web/graduacao/medicina: 50003 caracteres, 7342 palavras
+2025-08-02 21:41:46,801 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214146_800.json
+2025-08-02 21:41:46,802 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 50003 caracteres em 1.90s
+2025-08-02 21:41:47,309 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: startups TELEMEDICINA unicórnios brasileiros fundi...
+2025-08-02 21:41:47,315 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214147_313.json
+2025-08-02 21:41:47,315 - services.production_search_manager - INFO - 🔍 Buscando com google: startups TELEMEDICINA unicórnios brasileiros funding
+2025-08-02 21:41:47,701 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:41:47,702 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://futurehealth.cc/unicornio-saude-brasil/
+2025-08-02 21:41:49,351 - services.robust_content_extractor - INFO - 📥 HTML baixado: 54043 caracteres
+2025-08-02 21:41:49,365 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:49,400 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://futurehealth.cc/unicornio-saude-brasil/: 4698 caracteres, 742 palavras
+2025-08-02 21:41:49,401 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214149_400.json
+2025-08-02 21:41:49,402 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4698 caracteres em 0.03s
+2025-08-02 21:41:49,403 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.consultingclub.com.br/post/startups-unic%C3%B3rnio-transformando-ideias-em-bilh%C3%B5es
+2025-08-02 21:41:51,911 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1113129 caracteres
+2025-08-02 21:41:51,974 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.consultingclub.com.br/post/startups-unic%C3%B3rnio-transformando-ideias-em-bilh%C3%B5es
+2025-08-02 21:41:52,126 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.consultingclub.com.br/post/startups-unic%C3%B3rnio-transformando-ideias-em-bilh%C3%B5es: 36340 caracteres, 4770 palavras
+2025-08-02 21:41:52,128 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214152_127.json
+2025-08-02 21:41:52,132 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.bloomberglinea.com.br/2021/08/26/temporada-de-unicornios-seis-startups-devem-entrar-para-o-clube-do-bilhao-no-brasil/
+2025-08-02 21:41:52,925 - services.robust_content_extractor - INFO - 📥 HTML baixado: 487753 caracteres
+2025-08-02 21:41:52,970 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.bloomberglinea.com.br/2021/08/26/temporada-de-unicornios-seis-startups-devem-entrar-para-o-clube-do-bilhao-no-brasil/
+2025-08-02 21:41:53,110 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.bloomberglinea.com.br/2021/08/26/temporada-de-unicornios-seis-startups-devem-entrar-para-o-clube-do-bilhao-no-brasil/: 12196 caracteres, 1788 palavras
+2025-08-02 21:41:53,111 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214153_110.json
+2025-08-02 21:41:53,116 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://pt.linkedin.com/posts/caiofasanella_startups-fintechs-investimentos-activity-7209611386862112770-4K1j
+2025-08-02 21:41:54,523 - services.robust_content_extractor - INFO - 📥 HTML baixado: 341748 caracteres
+2025-08-02 21:41:54,600 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://pt.linkedin.com/posts/caiofasanella_startups-fintechs-investimentos-activity-7209611386862112770-4K1j
+2025-08-02 21:41:54,799 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://pt.linkedin.com/posts/caiofasanella_startups-fintechs-investimentos-activity-7209611386862112770-4K1j: 31651 caracteres, 4167 palavras
+2025-08-02 21:41:54,800 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214154_799.json
+2025-08-02 21:41:54,805 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.bain.com/contentassets/2bff0371e2f04ee1bbf1a22d74721c2c/bain_blackrocks_panorama-do-ecossistema-de-startups-no-brasil.pdf
+2025-08-02 21:41:54,805 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:41:58,684 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:41:58,695 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.bain.com/contentassets/2bff0371e2f04ee1bbf1a22d74721c2c/bain_blackrocks_panorama-do-ecossistema-de-startups-no-brasil.pdf: 50003 caracteres, 8105 palavras
+2025-08-02 21:41:58,696 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214158_695.json
+2025-08-02 21:41:58,696 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://startups.com.br/negocios/formel-skin-quer-revolucionar-tratamentos-dermatologicos-no-brasil-via-telemedicina/
+2025-08-02 21:41:59,636 - services.robust_content_extractor - INFO - 📥 HTML baixado: 455377 caracteres
+2025-08-02 21:41:59,687 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:41:59,740 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://startups.com.br/negocios/formel-skin-quer-revolucionar-tratamentos-dermatologicos-no-brasil-via-telemedicina/: 2464 caracteres, 388 palavras
+2025-08-02 21:41:59,741 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214159_740.json
+2025-08-02 21:41:59,746 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 2464 caracteres em 0.05s
+2025-08-02 21:41:59,746 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://solutions.mckinsey.com/csd/events/mckinseytalks/br
+2025-08-02 21:42:02,255 - services.robust_content_extractor - INFO - 📥 HTML baixado: 524411 caracteres
+2025-08-02 21:42:02,387 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:42:02,799 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://solutions.mckinsey.com/csd/events/mckinseytalks/br: 50003 caracteres, 7992 palavras
+2025-08-02 21:42:02,801 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214202_800.json
+2025-08-02 21:42:02,806 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 50003 caracteres em 0.40s
+2025-08-02 21:42:02,807 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://dealflow.substack.com/p/dealflowbr-12-mapa-de-investidores
+2025-08-02 21:42:03,413 - services.robust_content_extractor - INFO - 📥 HTML baixado: 263372 caracteres
+2025-08-02 21:42:03,446 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://dealflow.substack.com/p/dealflowbr-12-mapa-de-investidores
+2025-08-02 21:42:03,546 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://dealflow.substack.com/p/dealflowbr-12-mapa-de-investidores: 8216 caracteres, 1225 palavras
+2025-08-02 21:42:03,547 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214203_546.json
+2025-08-02 21:42:04,049 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: fusões aquisições TELEMEDICINA M&A consolidação...
+2025-08-02 21:42:04,050 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214204_049.json
+2025-08-02 21:42:04,051 - services.production_search_manager - INFO - 🔍 Buscando com google: fusões aquisições TELEMEDICINA M&A consolidação
+2025-08-02 21:42:04,388 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:42:04,389 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://fortezzapartners.com.br/tendencias-em-ma-no-setor-de-saude-brasileiro/
+2025-08-02 21:42:05,104 - services.robust_content_extractor - INFO - 📥 HTML baixado: 70359 caracteres
+2025-08-02 21:42:05,120 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:42:05,143 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://fortezzapartners.com.br/tendencias-em-ma-no-setor-de-saude-brasileiro/: 8104 caracteres, 1187 palavras
+2025-08-02 21:42:05,144 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214205_143.json
+2025-08-02 21:42:05,144 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 8104 caracteres em 0.02s
+2025-08-02 21:42:05,145 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.lek.com/sites/default/files/PDFs/principais-tendencias-do-mercado.pdf
+2025-08-02 21:42:05,156 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:42:06,391 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P39' is an invalid float value
+2025-08-02 21:42:07,717 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P242' is an invalid float value
+2025-08-02 21:42:07,796 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P302' is an invalid float value
+2025-08-02 21:42:07,819 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P311' is an invalid float value
+2025-08-02 21:42:08,565 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P455' is an invalid float value
+2025-08-02 21:42:11,699 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 40716 caracteres
+2025-08-02 21:42:11,708 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.lek.com/sites/default/files/PDFs/principais-tendencias-do-mercado.pdf: 40716 caracteres, 6304 palavras
+2025-08-02 21:42:11,709 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214211_708.json
+2025-08-02 21:42:11,709 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.telesintese.com.br/alares-quer-liderar-consolidacao-entre-isps-com-rede-propria-e-integracao-acelerada-diz-ceo/
+2025-08-02 21:42:19,577 - services.robust_content_extractor - INFO - 📥 HTML baixado: 182465 caracteres
+2025-08-02 21:42:19,616 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:42:19,641 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.telesintese.com.br/alares-quer-liderar-consolidacao-entre-isps-com-rede-propria-e-integracao-acelerada-diz-ceo/: 3067 caracteres, 489 palavras
+2025-08-02 21:42:19,642 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214219_641.json
+2025-08-02 21:42:19,642 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3067 caracteres em 0.02s
+2025-08-02 21:42:19,643 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://capitalinvest-group.com/pt/tendencias-ma-brasil-2025/
+2025-08-02 21:42:19,905 - services.robust_content_extractor - INFO - 📥 HTML baixado: 108096 caracteres
+2025-08-02 21:42:19,925 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:42:19,951 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://capitalinvest-group.com/pt/tendencias-ma-brasil-2025/: 10664 caracteres, 1642 palavras
+2025-08-02 21:42:19,952 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214219_951.json
+2025-08-02 21:42:19,954 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 10664 caracteres em 0.02s
+2025-08-02 21:42:19,965 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/
+2025-08-02 21:42:20,804 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/ (tentativa 1): 403 Client Error: Forbidden for url: https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/
+2025-08-02 21:42:24,742 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/ (tentativa 2): 403 Client Error: Forbidden for url: https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/
+2025-08-02 21:43:01,438 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/ (tentativa 3): HTTPSConnectionPool(host='pipeline.capital', port=443): Read timed out.
+2025-08-02 21:43:01,440 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://pipeline.capital/dados-de-fusoes-e-aquisicoes-no-brasil-dezembro-2020-pwc/
+2025-08-02 21:43:01,442 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214301_441.json
+2025-08-02 21:43:01,445 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portalhospitaisbrasil.com.br/mercado-brasileiro-de-medicina-reprodutiva-deve-crescer-23-ao-ano-ate-2026-e-registrar-mais-fusoes-e-aquisicoes/
+2025-08-02 21:43:01,618 - services.robust_content_extractor - INFO - 📥 HTML baixado: 64092 caracteres
+2025-08-02 21:43:01,636 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:43:01,648 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://portalhospitaisbrasil.com.br/mercado-brasileiro-de-medicina-reprodutiva-deve-crescer-23-ao-ano-ate-2026-e-registrar-mais-fusoes-e-aquisicoes/: 4298 caracteres, 681 palavras
+2025-08-02 21:43:01,649 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214301_648.json
+2025-08-02 21:43:01,649 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4298 caracteres em 0.01s
+2025-08-02 21:43:01,650 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://igher.com.br/por-que-o-setor-de-healthcare-e-um-dos-mais-atrativos-para-fusoes-e-aquisicoes-no-brasil/
+2025-08-02 21:43:03,062 - services.robust_content_extractor - INFO - 📥 HTML baixado: 108663 caracteres
+2025-08-02 21:43:03,090 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:43:03,133 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://igher.com.br/por-que-o-setor-de-healthcare-e-um-dos-mais-atrativos-para-fusoes-e-aquisicoes-no-brasil/: 3781 caracteres, 572 palavras
+2025-08-02 21:43:03,134 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214303_133.json
+2025-08-02 21:43:03,135 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3781 caracteres em 0.04s
+2025-08-02 21:43:03,137 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/
+2025-08-02 21:43:03,633 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/ (tentativa 1): 403 Client Error: Forbidden for url: https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/
+2025-08-02 21:43:06,820 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/ (tentativa 2): 403 Client Error: Forbidden for url: https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/
+2025-08-02 21:43:09,738 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/ (tentativa 3): 403 Client Error: Forbidden for url: https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/
+2025-08-02 21:43:09,739 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://fusoesaquisicoes.com/hr/perspectiva-de-fusoes-e-aquisicoes-na-area-da-saude/
+2025-08-02 21:43:09,742 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214309_741.json
+2025-08-02 21:43:10,245 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: pesquisa comportamento consumidor TELEMEDICINA Bra...
+2025-08-02 21:43:10,246 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214310_245.json
+2025-08-02 21:43:10,247 - services.production_search_manager - INFO - 🔍 Buscando com google: pesquisa comportamento consumidor TELEMEDICINA Brasil
+2025-08-02 21:43:10,618 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:43:10,618 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market/pt-BR
+2025-08-02 21:43:40,706 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 1 para https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market/pt-BR
+2025-08-02 21:44:13,950 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 2 para https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market/pt-BR
+2025-08-02 21:44:46,292 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 3 para https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market/pt-BR
+2025-08-02 21:44:46,293 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/feeling-good-the-future-of-the-1-5-trillion-wellness-market/pt-BR
+2025-08-02 21:44:46,296 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214446_295.json
+2025-08-02 21:44:46,299 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.apm.org.br/estudo-revela-novos-dados-sobre-o-perfil-do-paciente-digital-no-brasil/
+2025-08-02 21:44:48,009 - services.robust_content_extractor - INFO - 📥 HTML baixado: 56349 caracteres
+2025-08-02 21:44:48,025 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:44:48,038 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.apm.org.br/estudo-revela-novos-dados-sobre-o-perfil-do-paciente-digital-no-brasil/: 3950 caracteres, 603 palavras
+2025-08-02 21:44:48,039 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214448_038.json
+2025-08-02 21:44:48,039 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3950 caracteres em 0.01s
+2025-08-02 21:44:48,039 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.mckinsey.com/capabilities/operations/our-insights/elevating-customer-experience-excellence-in-the-next-normal/pt-BR
+2025-08-02 21:45:18,113 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 1 para https://www.mckinsey.com/capabilities/operations/our-insights/elevating-customer-experience-excellence-in-the-next-normal/pt-BR
+2025-08-02 21:45:50,600 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 2 para https://www.mckinsey.com/capabilities/operations/our-insights/elevating-customer-experience-excellence-in-the-next-normal/pt-BR
+2025-08-02 21:46:23,721 - services.robust_content_extractor - WARNING - ⏰ Timeout na tentativa 3 para https://www.mckinsey.com/capabilities/operations/our-insights/elevating-customer-experience-excellence-in-the-next-normal/pt-BR
+2025-08-02 21:46:23,721 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://www.mckinsey.com/capabilities/operations/our-insights/elevating-customer-experience-excellence-in-the-next-normal/pt-BR
+2025-08-02 21:46:23,725 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214623_724.json
+2025-08-02 21:46:23,728 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://assets.kpmg.com/content/dam/kpmg/br/pdf/2020/br-paciente-como-consumidor.pdf
+2025-08-02 21:46:23,728 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:46:27,097 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:46:27,109 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://assets.kpmg.com/content/dam/kpmg/br/pdf/2020/br-paciente-como-consumidor.pdf: 50003 caracteres, 7261 palavras
+2025-08-02 21:46:27,110 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214627_109.json
+2025-08-02 21:46:27,111 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.fecomercio.com.br/noticia/telemedicina-e-venda-de-novos-produtos-impactam-nas-vendas-da-ultrafarma-ouca
+2025-08-02 21:46:27,320 - services.robust_content_extractor - INFO - 📥 HTML baixado: 59304 caracteres
+2025-08-02 21:46:27,344 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:27,366 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.fecomercio.com.br/noticia/telemedicina-e-venda-de-novos-produtos-impactam-nas-vendas-da-ultrafarma-ouca: 2411 caracteres, 394 palavras
+2025-08-02 21:46:27,367 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214627_366.json
+2025-08-02 21:46:27,368 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 2411 caracteres em 0.02s
+2025-08-02 21:46:27,369 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://solutions.mckinsey.com/csd/events/mckinseytalks/br
+2025-08-02 21:46:29,262 - services.robust_content_extractor - INFO - 📥 HTML baixado: 524411 caracteres
+2025-08-02 21:46:29,388 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:30,141 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://solutions.mckinsey.com/csd/events/mckinseytalks/br: 50003 caracteres, 7992 palavras
+2025-08-02 21:46:30,144 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214630_143.json
+2025-08-02 21:46:30,145 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 50003 caracteres em 0.74s
+2025-08-02 21:46:30,149 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,578 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431633 caracteres
+2025-08-02 21:46:30,587 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:30,604 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,606 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:46:30,606 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:46:30,626 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,626 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:46:30,635 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:46:30,663 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:46:30,677 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,678 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:46:30,678 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:46:30,699 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,699 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:46:30,701 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:46:30,719 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,720 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:46:30,720 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:46:30,730 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,732 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:46:30,735 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:46:30,744 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/DFIPc0uq6_k/
+2025-08-02 21:46:30,745 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214630_744.json
+2025-08-02 21:46:30,746 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
+2025-08-02 21:46:31,138 - services.robust_content_extractor - INFO - 📥 HTML baixado: 239008 caracteres
+2025-08-02 21:46:31,224 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:31,466 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm: 50003 caracteres, 7644 palavras
+2025-08-02 21:46:31,467 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214631_467.json
+2025-08-02 21:46:31,469 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 50003 caracteres em 0.23s
+2025-08-02 21:46:31,971 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: cases sucesso TELEMEDICINA empresas brasileiras...
+2025-08-02 21:46:31,972 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214631_971.json
+2025-08-02 21:46:31,973 - services.production_search_manager - INFO - 🔍 Buscando com google: cases sucesso TELEMEDICINA empresas brasileiras
+2025-08-02 21:46:32,424 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:46:32,424 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portaltelemedicina.com.br/portal-telemedicina-google-meet
+2025-08-02 21:46:33,580 - services.robust_content_extractor - INFO - 📥 HTML baixado: 578786 caracteres
+2025-08-02 21:46:33,614 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://portaltelemedicina.com.br/portal-telemedicina-google-meet
+2025-08-02 21:46:33,686 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://portaltelemedicina.com.br/portal-telemedicina-google-meet: 9219 caracteres, 1253 palavras
+2025-08-02 21:46:33,687 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214633_686.json
+2025-08-02 21:46:33,692 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.unicep.edu.br/post/inova%C3%A7%C3%B5es-na-sa%C3%BAde-digital-telemedicina-e-suas-aplica%C3%A7%C3%B5es-futuras
+2025-08-02 21:46:34,047 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1370370 caracteres
+2025-08-02 21:46:34,107 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.unicep.edu.br/post/inova%C3%A7%C3%B5es-na-sa%C3%BAde-digital-telemedicina-e-suas-aplica%C3%A7%C3%B5es-futuras
+2025-08-02 21:46:34,253 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.unicep.edu.br/post/inova%C3%A7%C3%B5es-na-sa%C3%BAde-digital-telemedicina-e-suas-aplica%C3%A7%C3%B5es-futuras: 27572 caracteres, 3873 palavras
+2025-08-02 21:46:34,255 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214634_254.json
+2025-08-02 21:46:34,259 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/
+2025-08-02 21:46:34,505 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/ (tentativa 1): 400 Client Error: Bad Request for url: https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/
+2025-08-02 21:46:37,778 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/ (tentativa 2): 400 Client Error: Bad Request for url: https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/
+2025-08-02 21:46:41,592 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/ (tentativa 3): 400 Client Error: Bad Request for url: https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/
+2025-08-02 21:46:41,593 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://www.facebook.com/baita.ac/posts/case-de-sucesso-piau%C3%AD-sa%C3%BAde-digital-a-revolu%C3%A7%C3%A3o-da-telemedicina-no-brasil-200-di/1200787555389554/
+2025-08-02 21:46:41,600 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214641_599.json
+2025-08-02 21:46:41,600 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portal.cfm.org.br/noticias/apos-amplo-debate-cfm-regulamenta-pratica-da-telemedicina-no-brasil/
+2025-08-02 21:46:42,416 - services.robust_content_extractor - INFO - 📥 HTML baixado: 164006 caracteres
+2025-08-02 21:46:42,444 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:42,467 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://portal.cfm.org.br/noticias/apos-amplo-debate-cfm-regulamenta-pratica-da-telemedicina-no-brasil/: 10450 caracteres, 1535 palavras
+2025-08-02 21:46:42,468 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214642_467.json
+2025-08-02 21:46:42,477 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 10450 caracteres em 0.02s
+2025-08-02 21:46:42,478 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.scielo.br/j/jbpneu/a/J5vr3HNyvKRbYgJjMLtLLXj/?format=pdf&lang=pt
+2025-08-02 21:46:42,478 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:46:43,291 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 9883 caracteres
+2025-08-02 21:46:43,293 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.scielo.br/j/jbpneu/a/J5vr3HNyvKRbYgJjMLtLLXj/?format=pdf&lang=pt: 9883 caracteres, 1422 palavras
+2025-08-02 21:46:43,294 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214643_294.json
+2025-08-02 21:46:43,298 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://topmed.com.br/case-da-topmed-conquista-premio-inovacidade-2024/
+2025-08-02 21:46:45,103 - services.robust_content_extractor - INFO - 📥 HTML baixado: 203562 caracteres
+2025-08-02 21:46:45,128 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://topmed.com.br/case-da-topmed-conquista-premio-inovacidade-2024/
+2025-08-02 21:46:45,189 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://topmed.com.br/case-da-topmed-conquista-premio-inovacidade-2024/: 4918 caracteres, 697 palavras
+2025-08-02 21:46:45,191 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214645_190.json
+2025-08-02 21:46:45,192 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741
+2025-08-02 21:46:45,650 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741 (tentativa 1): 403 Client Error: Forbidden for url: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741
+2025-08-02 21:46:49,673 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741 (tentativa 2): 403 Client Error: Forbidden for url: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741
+2025-08-02 21:46:53,564 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741 (tentativa 3): 403 Client Error: Forbidden for url: https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741
+2025-08-02 21:46:53,564 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/48741
+2025-08-02 21:46:53,567 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214653_566.json
+2025-08-02 21:46:53,570 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.medicina.ufmg.br/mais-de-75-milhoes-de-consultas-foram-realizadas-por-telemedicina-no-brasil/
+2025-08-02 21:46:54,206 - services.robust_content_extractor - INFO - 📥 HTML baixado: 52104 caracteres
+2025-08-02 21:46:54,218 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.medicina.ufmg.br/mais-de-75-milhoes-de-consultas-foram-realizadas-por-telemedicina-no-brasil/
+2025-08-02 21:46:54,250 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.medicina.ufmg.br/mais-de-75-milhoes-de-consultas-foram-realizadas-por-telemedicina-no-brasil/: 4217 caracteres, 637 palavras
+2025-08-02 21:46:54,251 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214654_250.json
+2025-08-02 21:46:54,767 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: desafios TELEMEDICINA soluções inovadoras...
+2025-08-02 21:46:54,769 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214654_768.json
+2025-08-02 21:46:54,773 - services.production_search_manager - INFO - 🔍 Buscando com google: desafios TELEMEDICINA soluções inovadoras
+2025-08-02 21:46:55,177 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:46:55,177 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,489 - services.robust_content_extractor - INFO - 📥 HTML baixado: 4601 caracteres
+2025-08-02 21:46:55,490 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:55,498 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://www.vwnews.com.br/news/2220: 65 < 200
+2025-08-02 21:46:55,499 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 65 caracteres
+2025-08-02 21:46:55,499 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:46:55,502 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,502 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:46:55,503 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:46:55,504 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:46:55,513 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://www.vwnews.com.br/news/2220: 46 < 200
+2025-08-02 21:46:55,514 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 46 caracteres
+2025-08-02 21:46:55,518 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:46:55,527 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,527 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:46:55,531 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:46:55,533 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,533 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:46:55,534 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:46:55,539 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,539 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:46:55,542 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:46:55,552 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.vwnews.com.br/news/2220
+2025-08-02 21:46:55,553 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214655_552.json
+2025-08-02 21:46:55,553 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,238 - services.robust_content_extractor - INFO - 📥 HTML baixado: 5530 caracteres
+2025-08-02 21:46:56,239 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:56,243 - trafilatura.core - WARNING - discarding data for url: https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,245 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,245 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:46:56,247 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:46:56,248 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,248 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:46:56,250 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:46:56,261 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:46:56,262 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,266 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:46:56,276 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:46:56,281 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,282 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:46:56,286 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:46:56,287 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,295 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:46:56,295 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:46:56,299 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,303 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:46:56,303 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:46:56,308 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/ASSISTENTE-ADMINISTRATIVO_R-121338
+2025-08-02 21:46:56,309 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214656_309.json
+2025-08-02 21:46:56,310 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://besagroup.com.br/telemedicina-uma-revolucao-na-gestao-hospitalar/
+2025-08-02 21:46:57,989 - services.robust_content_extractor - INFO - 📥 HTML baixado: 115449 caracteres
+2025-08-02 21:46:58,002 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:58,013 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://besagroup.com.br/telemedicina-uma-revolucao-na-gestao-hospitalar/: 4629 caracteres, 661 palavras
+2025-08-02 21:46:58,014 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214658_013.json
+2025-08-02 21:46:58,014 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4629 caracteres em 0.01s
+2025-08-02 21:46:58,015 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://telemedicinamorsch.com.br/blog/inovacao-na-area-da-saude
+2025-08-02 21:46:58,525 - services.robust_content_extractor - INFO - 📥 HTML baixado: 117127 caracteres
+2025-08-02 21:46:58,561 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:58,623 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://telemedicinamorsch.com.br/blog/inovacao-na-area-da-saude: 17452 caracteres, 2624 palavras
+2025-08-02 21:46:58,624 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214658_623.json
+2025-08-02 21:46:58,634 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 17452 caracteres em 0.06s
+2025-08-02 21:46:58,634 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.lauduz.com/
+2025-08-02 21:46:59,214 - services.robust_content_extractor - INFO - 📥 HTML baixado: 83742 caracteres
+2025-08-02 21:46:59,233 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:46:59,289 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.lauduz.com/: 2833 caracteres, 415 palavras
+2025-08-02 21:46:59,290 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214659_290.json
+2025-08-02 21:46:59,292 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 2833 caracteres em 0.06s
+2025-08-02 21:46:59,296 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.unicep.edu.br/post/telemedicina-e-acesso-%C3%A0-sa%C3%BAde-o-que-h%C3%A1-de-novo
+2025-08-02 21:47:01,846 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1381117 caracteres
+2025-08-02 21:47:01,914 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.unicep.edu.br/post/telemedicina-e-acesso-%C3%A0-sa%C3%BAde-o-que-h%C3%A1-de-novo
+2025-08-02 21:47:02,080 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.unicep.edu.br/post/telemedicina-e-acesso-%C3%A0-sa%C3%BAde-o-que-h%C3%A1-de-novo: 29266 caracteres, 3977 palavras
+2025-08-02 21:47:02,081 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214702_081.json
+2025-08-02 21:47:02,086 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://adstelemedicina.com.br/a-digitalizacao-na-saude-e-os-desafios-de-treinamento-profissional/
+2025-08-02 21:47:03,225 - services.robust_content_extractor - INFO - 📥 HTML baixado: 171047 caracteres
+2025-08-02 21:47:03,239 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:47:03,256 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://adstelemedicina.com.br/a-digitalizacao-na-saude-e-os-desafios-de-treinamento-profissional/: 2271 caracteres, 333 palavras
+2025-08-02 21:47:03,257 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214703_256.json
+2025-08-02 21:47:03,257 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 2271 caracteres em 0.02s
+2025-08-02 21:47:03,258 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.uva.br/postagens/telemedicina-desafios-oportunidades/
+2025-08-02 21:47:03,817 - services.robust_content_extractor - INFO - 📥 HTML baixado: 264893 caracteres
+2025-08-02 21:47:03,855 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.uva.br/postagens/telemedicina-desafios-oportunidades/
+2025-08-02 21:47:03,947 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.uva.br/postagens/telemedicina-desafios-oportunidades/: 7699 caracteres, 1070 palavras
+2025-08-02 21:47:03,948 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214703_947.json
+2025-08-02 21:47:04,453 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: futuro TELEMEDICINA predições especialistas 2025...
+2025-08-02 21:47:04,454 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214704_453.json
+2025-08-02 21:47:04,455 - services.production_search_manager - INFO - 🔍 Buscando com google: futuro TELEMEDICINA predições especialistas 2025
+2025-08-02 21:47:04,860 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:47:04,861 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://portalservicos.usp.br/iddigital
+2025-08-02 21:47:05,424 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1501 caracteres
+2025-08-02 21:47:05,425 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:47:05,433 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://portalservicos.usp.br/iddigital: 136 < 200
+2025-08-02 21:47:05,433 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 136 caracteres
+2025-08-02 21:47:05,433 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:47:05,435 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://portalservicos.usp.br/iddigital
+2025-08-02 21:47:05,435 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:47:05,444 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:47:05,445 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:47:05,447 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://portalservicos.usp.br/iddigital: 136 < 200
+2025-08-02 21:47:05,447 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 136 caracteres
+2025-08-02 21:47:05,448 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:47:05,454 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://portalservicos.usp.br/iddigital
+2025-08-02 21:47:05,454 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:47:05,461 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:47:05,463 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://portalservicos.usp.br/iddigital
+2025-08-02 21:47:05,463 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:47:05,463 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:47:05,468 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo pequeno para https://portalservicos.usp.br/iddigital: 136 < 200
+2025-08-02 21:47:05,468 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 136 caracteres
+2025-08-02 21:47:05,483 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:47:05,494 - services.robust_content_extractor - INFO - ✅ Extração agressiva bem-sucedida: 161 caracteres
+2025-08-02 21:47:05,495 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_fallback' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_fallback_20250802_214705_494.json
+2025-08-02 21:47:05,495 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,840 - services.robust_content_extractor - INFO - 📥 HTML baixado: 431640 caracteres
+2025-08-02 21:47:05,848 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:47:05,858 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,858 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:47:05,859 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:47:05,867 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,867 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:47:05,867 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:47:05,879 - readability.readability - INFO - ruthless removal did not work. 
+2025-08-02 21:47:05,890 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,891 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 0 caracteres
+2025-08-02 21:47:05,891 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:47:05,907 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,908 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:47:05,908 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:47:05,916 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,916 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:47:05,916 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:47:05,927 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,928 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com beautifulsoup: 0 caracteres
+2025-08-02 21:47:05,932 - services.robust_content_extractor - WARNING - ⚠️ Todos os extratores padrão falharam, tentando extração agressiva...
+2025-08-02 21:47:05,938 - services.robust_content_extractor - ERROR - ❌ FALHA CRÍTICA: Todos os extratores falharam para https://www.instagram.com/p/C31HanGNXu5/
+2025-08-02 21:47:05,939 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_extracao_total_falha' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_extracao_total_falha_20250802_214705_938.json
+2025-08-02 21:47:05,939 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://blog.unopar.com.br/carreiras-em-alta/
+2025-08-02 21:47:06,579 - services.robust_content_extractor - INFO - 📥 HTML baixado: 269846 caracteres
+2025-08-02 21:47:06,800 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:47:06,849 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://blog.unopar.com.br/carreiras-em-alta/: 21115 caracteres, 3171 palavras
+2025-08-02 21:47:06,851 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214706_850.json
+2025-08-02 21:47:06,855 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 21115 caracteres em 0.05s
+2025-08-02 21:47:06,856 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://clinicas.clinicarx.com.br/blog/tendencias-do-varejo-farmaceutico-para-2025
+2025-08-02 21:47:09,031 - services.robust_content_extractor - INFO - 📥 HTML baixado: 268134 caracteres
+2025-08-02 21:47:09,088 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://clinicas.clinicarx.com.br/blog/tendencias-do-varejo-farmaceutico-para-2025
+2025-08-02 21:47:09,241 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://clinicas.clinicarx.com.br/blog/tendencias-do-varejo-farmaceutico-para-2025: 1011 caracteres, 150 palavras
+2025-08-02 21:47:09,242 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214709_241.json
+2025-08-02 21:47:09,247 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://forbes.com.br/carreira/2025/02/profissoes-do-futuro-empregos-com-maior-potencial-de-crescimento-nos-proximos-5-anos/
+2025-08-02 21:47:09,879 - services.robust_content_extractor - INFO - 📥 HTML baixado: 240077 caracteres
+2025-08-02 21:47:09,921 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:47:09,945 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://forbes.com.br/carreira/2025/02/profissoes-do-futuro-empregos-com-maior-potencial-de-crescimento-nos-proximos-5-anos/: 5189 caracteres, 757 palavras
+2025-08-02 21:47:09,946 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214709_945.json
+2025-08-02 21:47:09,946 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 5189 caracteres em 0.02s
+2025-08-02 21:47:09,947 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf
+2025-08-02 21:47:09,948 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:49:00,713 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:49:00,731 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf: 50003 caracteres, 5872 palavras
+2025-08-02 21:49:00,733 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214900_732.json
+2025-08-02 21:49:00,733 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.publico.pt/2024/06/18/sociedade/noticia/digital-caminho-futuro-profissionais-saude-precisam-formacao-2094324
+2025-08-02 21:49:02,072 - services.robust_content_extractor - INFO - 📥 HTML baixado: 584200 caracteres
+2025-08-02 21:49:02,129 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.publico.pt/2024/06/18/sociedade/noticia/digital-caminho-futuro-profissionais-saude-precisam-formacao-2094324
+2025-08-02 21:49:02,283 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.publico.pt/2024/06/18/sociedade/noticia/digital-caminho-futuro-profissionais-saude-precisam-formacao-2094324: 13917 caracteres, 1837 palavras
+2025-08-02 21:49:02,284 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214902_283.json
+2025-08-02 21:49:02,289 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://futurodasaude.com.br/futuro-da-telemedicina-einstein/
+2025-08-02 21:49:02,806 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/futuro-da-telemedicina-einstein/ (tentativa 1): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/futuro-da-telemedicina-einstein/
+2025-08-02 21:49:07,219 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/futuro-da-telemedicina-einstein/ (tentativa 2): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/futuro-da-telemedicina-einstein/
+2025-08-02 21:49:09,705 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/futuro-da-telemedicina-einstein/ (tentativa 3): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/futuro-da-telemedicina-einstein/
+2025-08-02 21:49:09,706 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://futurodasaude.com.br/futuro-da-telemedicina-einstein/
+2025-08-02 21:49:09,712 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214909_712.json
+2025-08-02 21:49:10,214 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: investimentos TELEMEDICINA private equity fundos...
+2025-08-02 21:49:10,215 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214910_214.json
+2025-08-02 21:49:10,216 - services.production_search_manager - INFO - 🔍 Buscando com google: investimentos TELEMEDICINA private equity fundos
+2025-08-02 21:49:10,612 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:49:10,613 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://futurodasaude.com.br/private-equity-no-brasil-2023/
+2025-08-02 21:49:11,057 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/private-equity-no-brasil-2023/ (tentativa 1): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/private-equity-no-brasil-2023/
+2025-08-02 21:49:15,286 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/private-equity-no-brasil-2023/ (tentativa 2): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/private-equity-no-brasil-2023/
+2025-08-02 21:49:19,502 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://futurodasaude.com.br/private-equity-no-brasil-2023/ (tentativa 3): 403 Client Error: Forbidden for url: https://futurodasaude.com.br/private-equity-no-brasil-2023/
+2025-08-02 21:49:19,504 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://futurodasaude.com.br/private-equity-no-brasil-2023/
+2025-08-02 21:49:19,513 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214919_512.json
+2025-08-02 21:49:19,513 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/
+2025-08-02 21:49:19,630 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/ (tentativa 1): 403 Client Error: Forbidden for url: https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/
+2025-08-02 21:49:22,723 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/ (tentativa 2): 403 Client Error: Forbidden for url: https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/
+2025-08-02 21:49:26,275 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/ (tentativa 3): 403 Client Error: Forbidden for url: https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/
+2025-08-02 21:49:26,276 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://conteudos.xpi.com.br/fundos-de-investimento/relatorios/investindo-criacao-de-valor-private-equity/
+2025-08-02 21:49:26,283 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214926_282.json
+2025-08-02 21:49:26,283 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.lek.com/sites/default/files/PDFs/principais-tendencias-do-mercado.pdf
+2025-08-02 21:49:26,283 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:49:27,355 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P39' is an invalid float value
+2025-08-02 21:49:28,378 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P242' is an invalid float value
+2025-08-02 21:49:28,458 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P302' is an invalid float value
+2025-08-02 21:49:28,481 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P311' is an invalid float value
+2025-08-02 21:49:29,155 - pdfminer.pdfinterp - WARNING - Cannot set gray non-stroke color because /'P455' is an invalid float value
+2025-08-02 21:49:32,202 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 40716 caracteres
+2025-08-02 21:49:32,212 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.lek.com/sites/default/files/PDFs/principais-tendencias-do-mercado.pdf: 40716 caracteres, 6304 palavras
+2025-08-02 21:49:32,213 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214932_212.json
+2025-08-02 21:49:32,215 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://voxcapital.com.br/
+2025-08-02 21:49:33,453 - services.robust_content_extractor - INFO - 📥 HTML baixado: 45895 caracteres
+2025-08-02 21:49:33,464 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:49:33,481 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://voxcapital.com.br/: 781 caracteres, 115 palavras
+2025-08-02 21:49:33,482 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214933_481.json
+2025-08-02 21:49:33,487 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 781 caracteres em 0.02s
+2025-08-02 21:49:33,488 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.cashme.com.br/blog/private-equity/
+2025-08-02 21:49:33,933 - services.robust_content_extractor - INFO - 📥 HTML baixado: 205286 caracteres
+2025-08-02 21:49:33,982 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:49:34,051 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.cashme.com.br/blog/private-equity/: 23211 caracteres, 3520 palavras
+2025-08-02 21:49:34,053 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214934_052.json
+2025-08-02 21:49:34,058 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 23211 caracteres em 0.07s
+2025-08-02 21:49:34,059 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:34,060 - services.url_resolver - INFO - 🔄 Resolvendo URL encurtada: https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:34,478 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente (tentativa 1): 404 Client Error: Not Found for url: https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:38,234 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente (tentativa 2): 404 Client Error: Not Found for url: https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:42,268 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente (tentativa 3): 404 Client Error: Not Found for url: https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:42,269 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://www.dxainvest.com/post/como-o-venture-capital-impacta-o-setor-de-saude-atualmente
+2025-08-02 21:49:42,276 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214942_275.json
+2025-08-02 21:49:42,276 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity
+2025-08-02 21:49:42,430 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity (tentativa 1): 403 Client Error: Forbidden for url: https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity
+2025-08-02 21:49:46,185 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity (tentativa 2): 403 Client Error: Forbidden for url: https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity
+2025-08-02 21:49:49,778 - services.robust_content_extractor - ERROR - ❌ Erro ao baixar https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity (tentativa 3): 403 Client Error: Forbidden for url: https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity
+2025-08-02 21:49:49,779 - services.robust_content_extractor - ERROR - ❌ Falha ao baixar HTML para https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-corporate-venture-capital-cvc-e-qual-a-diferenca-em-relacao-a-private-equity
+2025-08-02 21:49:49,786 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_download_html' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_download_html_20250802_214949_785.json
+2025-08-02 21:49:49,786 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.lavca.org/riverwood-backed-pixeon-acquires-vc-backed-boaconsulta-em-portugues/
+2025-08-02 21:49:52,661 - services.robust_content_extractor - INFO - 📥 HTML baixado: 101898 caracteres
+2025-08-02 21:49:52,678 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.lavca.org/riverwood-backed-pixeon-acquires-vc-backed-boaconsulta-em-portugues/
+2025-08-02 21:49:52,719 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.lavca.org/riverwood-backed-pixeon-acquires-vc-backed-boaconsulta-em-portugues/: 2354 caracteres, 287 palavras
+2025-08-02 21:49:52,720 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_214952_720.json
+2025-08-02 21:49:53,226 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 1/13 - 🔍 Pesquisando: tecnologia TELEMEDICINA automação IA impacto...
+2025-08-02 21:49:53,227 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_214953_226.json
+2025-08-02 21:49:53,228 - services.production_search_manager - INFO - 🔍 Buscando com google: tecnologia TELEMEDICINA automação IA impacto
+2025-08-02 21:49:53,614 - services.production_search_manager - INFO - ✅ google: 10 resultados
+2025-08-02 21:49:53,614 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: http://iosrjournals.org/iosr-jbm/papers/Vol26-issue10/Ser-12/E2610123141.pdf
+2025-08-02 21:49:53,617 - services.robust_content_extractor - INFO - 📄 Detectado PDF - usando extratores especializados
+2025-08-02 21:49:58,375 - services.robust_content_extractor - INFO - ✅ PDF extraído com PDFPlumber: 50003 caracteres
+2025-08-02 21:49:58,383 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para http://iosrjournals.org/iosr-jbm/papers/Vol26-issue10/Ser-12/E2610123141.pdf: 50003 caracteres, 7196 palavras
+2025-08-02 21:49:58,384 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_pdf' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_pdf_20250802_214958_384.json
+2025-08-02 21:49:58,384 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,690 - services.robust_content_extractor - INFO - 📥 HTML baixado: 317357 caracteres
+2025-08-02 21:49:59,703 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:49:59,709 - trafilatura.utils - ERROR - parsed tree length: 1, wrong data type or not valid HTML
+2025-08-02 21:49:59,710 - trafilatura.core - ERROR - empty HTML tree for URL https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,711 - trafilatura.core - WARNING - discarding data for url: https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,711 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,712 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com trafilatura: 0 caracteres
+2025-08-02 21:49:59,713 - services.robust_content_extractor - INFO - 🔍 Tentando extração com playwright_dynamic...
+2025-08-02 21:49:59,726 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,726 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com playwright_dynamic: 0 caracteres
+2025-08-02 21:49:59,726 - services.robust_content_extractor - INFO - 🔍 Tentando extração com readability...
+2025-08-02 21:49:59,731 - services.robust_content_extractor - WARNING - ⚠️ Poucas palavras para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789: 61
+2025-08-02 21:49:59,731 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com readability: 679 caracteres
+2025-08-02 21:49:59,735 - services.robust_content_extractor - INFO - 🔍 Tentando extração com newspaper...
+2025-08-02 21:49:59,748 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,748 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com newspaper: 0 caracteres
+2025-08-02 21:49:59,751 - services.robust_content_extractor - INFO - 🔍 Tentando extração com selenium_js...
+2025-08-02 21:49:59,765 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo vazio para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789
+2025-08-02 21:49:59,765 - services.robust_content_extractor - WARNING - ⚠️ Conteúdo insuficiente com selenium_js: 0 caracteres
+2025-08-02 21:49:59,767 - services.robust_content_extractor - INFO - 🔍 Tentando extração com beautifulsoup...
+2025-08-02 21:49:59,836 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://periodicos.unisa.br/index.php/direitosaude/article/download/614/606/3789: 50003 caracteres, 957 palavras
+2025-08-02 21:49:59,838 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_214959_837.json
+2025-08-02 21:49:59,839 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com beautifulsoup: 50003 caracteres em 0.06s
+2025-08-02 21:49:59,843 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.libertygroup.io/post/como-a-intelig%C3%AAncia-artificial-est%C3%A1-transformando-a-sa%C3%BAde-digital
+2025-08-02 21:50:02,738 - services.robust_content_extractor - INFO - 📥 HTML baixado: 1077552 caracteres
+2025-08-02 21:50:02,784 - services.robust_content_extractor - WARNING - ⚠️ Página dinâmica detectada: https://www.libertygroup.io/post/como-a-intelig%C3%AAncia-artificial-est%C3%A1-transformando-a-sa%C3%BAde-digital
+2025-08-02 21:50:02,880 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.libertygroup.io/post/como-a-intelig%C3%AAncia-artificial-est%C3%A1-transformando-a-sa%C3%BAde-digital: 9237 caracteres, 1242 palavras
+2025-08-02 21:50:02,881 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_dinamica' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_dinamica_20250802_215002_880.json
+2025-08-02 21:50:02,886 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.unit.br/blog/saude-digital-a-tecnologia-transformando-cursos-da-area-da-saude
+2025-08-02 21:50:04,275 - services.robust_content_extractor - INFO - 📥 HTML baixado: 61780 caracteres
+2025-08-02 21:50:04,289 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:50:04,321 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.unit.br/blog/saude-digital-a-tecnologia-transformando-cursos-da-area-da-saude: 3248 caracteres, 515 palavras
+2025-08-02 21:50:04,322 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_215004_321.json
+2025-08-02 21:50:04,323 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 3248 caracteres em 0.03s
+2025-08-02 21:50:04,329 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.saocristovao.com.br/boletim-755/
+2025-08-02 21:50:04,828 - services.robust_content_extractor - INFO - 📥 HTML baixado: 226527 caracteres
+2025-08-02 21:50:04,851 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:50:04,868 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.saocristovao.com.br/boletim-755/: 2652 caracteres, 415 palavras
+2025-08-02 21:50:04,868 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_215004_868.json
+2025-08-02 21:50:04,869 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 2652 caracteres em 0.02s
+2025-08-02 21:50:04,870 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.iadb.org/pt-br/noticias/outsource2lac-se-consolida-como-o-evento-de-referencia-no-setor-de-servicos-baseados-em
+2025-08-02 21:50:05,717 - services.robust_content_extractor - INFO - 📥 HTML baixado: 30970 caracteres
+2025-08-02 21:50:05,728 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:50:05,736 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.iadb.org/pt-br/noticias/outsource2lac-se-consolida-como-o-evento-de-referencia-no-setor-de-servicos-baseados-em: 4972 caracteres, 716 palavras
+2025-08-02 21:50:05,738 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_215005_737.json
+2025-08-02 21:50:05,742 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 4972 caracteres em 0.01s
+2025-08-02 21:50:05,751 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://madeinweb.com.br/blog/o-impacto-da-inteligencia-artificial-na-sociedade-moderna/
+2025-08-02 21:50:06,567 - services.robust_content_extractor - INFO - 📥 HTML baixado: 127193 caracteres
+2025-08-02 21:50:06,588 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:50:06,623 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://madeinweb.com.br/blog/o-impacto-da-inteligencia-artificial-na-sociedade-moderna/: 11676 caracteres, 1654 palavras
+2025-08-02 21:50:06,625 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_215006_623.json
+2025-08-02 21:50:06,625 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 11676 caracteres em 0.03s
+2025-08-02 21:50:06,629 - services.robust_content_extractor - INFO - 🔍 Iniciando extração de: https://www.saudebusiness.com/artigos/transformacao-digital-na-saude-importancia-da-ia-big-data-e-telemedicina/
+2025-08-02 21:50:07,592 - services.robust_content_extractor - INFO - 📥 HTML baixado: 234609 caracteres
+2025-08-02 21:50:07,619 - services.robust_content_extractor - INFO - 🔍 Tentando extração com trafilatura...
+2025-08-02 21:50:07,643 - services.robust_content_extractor - INFO - ✅ Conteúdo válido para https://www.saudebusiness.com/artigos/transformacao-digital-na-saude-importancia-da-ia-big-data-e-telemedicina/: 14124 caracteres, 2116 palavras
+2025-08-02 21:50:07,644 - services.auto_save_manager - INFO - 💾 Etapa 'extracao_sucesso' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\extracao_sucesso_20250802_215007_643.json
+2025-08-02 21:50:07,644 - services.robust_content_extractor - INFO - ✅ Extração bem-sucedida com trafilatura: 14124 caracteres em 0.02s
+2025-08-02 21:50:08,146 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 2/13 - 🧠 Sintetizando conteúdo extraído...
+2025-08-02 21:50:08,147 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215008_146.json
+2025-08-02 21:50:08,148 - services.content_synthesis_engine - INFO - 🔄 Sintetizando 78 fontes de conteúdo
+2025-08-02 21:50:08,155 - services.content_synthesis_engine - INFO - ✅ Síntese concluída: 0 insights gerados
+2025-08-02 21:50:08,156 - services.auto_save_manager - INFO - 💾 Etapa 'pesquisa_inteligente' salva: relatorios_intermediarios\pesquisa_web\session_1754181466761_2mi0kxehm\pesquisa_inteligente_20250802_215008_156.json
+2025-08-02 21:50:08,158 - services.enhanced_analysis_pipeline - INFO - ✅ Pesquisa inteligente: 78 fontes, síntese com 0 insights
+2025-08-02 21:50:08,164 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 3/13 - 🧠 Analisando com Gemini 2.5 Pro...
+2025-08-02 21:50:08,165 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215008_164.json
+2025-08-02 21:50:08,165 - services.enhanced_analysis_pipeline - INFO - 🧠 Executando análise com IA avançada
+2025-08-02 21:50:08,166 - services.enhanced_analysis_pipeline - INFO - 🚀 Tentando análise com Gemini 2.5 Pro...
+2025-08-02 21:50:08,167 - services.ai_manager - INFO - 🤖 Usando provedor solicitado: GEMINI
+2025-08-02 21:50:56,830 - services.ai_manager - INFO - ✅ Gemini gerou 31721 caracteres
+2025-08-02 21:50:56,831 - services.ai_manager - INFO - ✅ Sucesso registrado para gemini
+2025-08-02 21:50:56,833 - services.enhanced_analysis_pipeline - INFO - ✅ Análise concluída com Gemini 2.5 Pro
+2025-08-02 21:50:56,837 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 5/13 - ⚡ Gerando componentes ultra-robustos...
+2025-08-02 21:50:56,840 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215056_839.json
+2025-08-02 21:50:56,840 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 6/13 - 🧠 Gerando drivers mentais ultra-robustos...
+2025-08-02 21:50:56,845 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215056_844.json
+2025-08-02 21:50:56,845 - services.mental_drivers_architect - INFO - 🧠 Gerando drivers mentais customizados...
+2025-08-02 21:50:56,847 - services.auto_save_manager - INFO - 💾 Etapa 'drivers_entrada' salva: relatorios_intermediarios\drivers_mentais\session_1754181466761_2mi0kxehm\drivers_entrada_20250802_215056_846.json
+2025-08-02 21:51:07,308 - services.ai_manager - INFO - ✅ Gemini gerou 6719 caracteres
+2025-08-02 21:51:07,309 - services.ai_manager - INFO - ✅ Sucesso registrado para gemini
+2025-08-02 21:51:07,309 - services.mental_drivers_architect - INFO - ✅ Drivers customizados gerados com IA
+2025-08-02 21:51:07,311 - services.auto_save_manager - INFO - 💾 Etapa 'drivers_customizados' salva: relatorios_intermediarios\drivers_mentais\session_1754181466761_2mi0kxehm\drivers_customizados_20250802_215107_310.json
+2025-08-02 21:51:07,312 - services.auto_save_manager - INFO - 💾 Etapa 'drivers_final' salva: relatorios_intermediarios\drivers_mentais\session_1754181466761_2mi0kxehm\drivers_final_20250802_215107_311.json
+2025-08-02 21:51:07,313 - services.mental_drivers_architect - INFO - ✅ Drivers mentais customizados gerados com sucesso
+2025-08-02 21:51:07,314 - services.auto_save_manager - INFO - 💾 Etapa 'drivers_ultra_robustos' salva: relatorios_intermediarios\drivers_mentais\session_1754181466761_2mi0kxehm\drivers_ultra_robustos_20250802_215107_313.json
+2025-08-02 21:51:07,314 - services.enhanced_analysis_pipeline - INFO - ✅ Drivers mentais ultra-robustos gerados
+2025-08-02 21:51:07,315 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 7/13 - 🎭 Criando provas visuais inovadoras...
+2025-08-02 21:51:07,317 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215107_316.json
+2025-08-02 21:51:07,317 - services.enhanced_analysis_pipeline - ERROR - ❌ Erro nas provas visuais: 'EnhancedAnalysisPipeline' object has no attribute '_extract_proof_concepts'
+2025-08-02 21:51:07,319 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_provas_visuais' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_provas_visuais_20250802_215107_318.json
+2025-08-02 21:51:07,319 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 8/13 - 🛡️ Construindo sistema anti-objeção avançado...
+2025-08-02 21:51:07,320 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215107_320.json
+2025-08-02 21:51:07,321 - services.anti_objection_system - INFO - 🛡️ Gerando sistema anti-objeção para 12 objeções
+2025-08-02 21:51:07,325 - services.auto_save_manager - INFO - 💾 Etapa 'anti_objecao_entrada' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\anti_objecao_entrada_20250802_215107_324.json
+2025-08-02 21:51:07,327 - services.auto_save_manager - INFO - 💾 Etapa 'objecoes_analisadas' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\objecoes_analisadas_20250802_215107_326.json
+2025-08-02 21:51:07,328 - services.auto_save_manager - INFO - 💾 Etapa 'contra_ataques' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\contra_ataques_20250802_215107_327.json
+2025-08-02 21:51:14,224 - services.ai_manager - INFO - ✅ Gemini gerou 4001 caracteres
+2025-08-02 21:51:14,225 - services.ai_manager - INFO - ✅ Sucesso registrado para gemini
+2025-08-02 21:51:14,227 - services.anti_objection_system - INFO - ✅ Scripts personalizados gerados com IA
+2025-08-02 21:51:14,233 - services.auto_save_manager - INFO - 💾 Etapa 'scripts_personalizados' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\scripts_personalizados_20250802_215114_232.json
+2025-08-02 21:51:14,234 - services.auto_save_manager - INFO - 💾 Etapa 'anti_objecao_final' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\anti_objecao_final_20250802_215114_233.json
+2025-08-02 21:51:14,234 - services.anti_objection_system - INFO - ✅ Sistema anti-objeção gerado com sucesso
+2025-08-02 21:51:14,236 - services.auto_save_manager - INFO - 💾 Etapa 'anti_objecao_avancado' salva: relatorios_intermediarios\anti_objecao\session_1754181466761_2mi0kxehm\anti_objecao_avancado_20250802_215114_235.json
+2025-08-02 21:51:14,241 - services.enhanced_analysis_pipeline - INFO - ✅ Sistema anti-objeção avançado construído
+2025-08-02 21:51:14,242 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 9/13 - 🎯 Arquitetando pré-pitch revolucionário...
+2025-08-02 21:51:14,248 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215114_247.json
+2025-08-02 21:51:14,248 - services.enhanced_pre_pitch_architect - INFO - 🎯 Gerando pré-pitch aprimorado...
+2025-08-02 21:51:14,251 - services.auto_save_manager - INFO - 💾 Etapa 'pre_pitch_entrada_enhanced' salva: relatorios_intermediarios\pre_pitch\session_1754181466761_2mi0kxehm\pre_pitch_entrada_enhanced_20250802_215114_249.json
+2025-08-02 21:51:14,251 - services.enhanced_pre_pitch_architect - INFO - 📊 Drivers extraídos: 3 válidos de 3 totais
+2025-08-02 21:51:14,251 - services.enhanced_pre_pitch_architect - WARNING - ⚠️ Sequência muito curta: 2 fases
+2025-08-02 21:51:14,254 - services.auto_save_manager - INFO - 💾 Etapa 'orquestracao_enhanced' salva: relatorios_intermediarios\pre_pitch\session_1754181466761_2mi0kxehm\orquestracao_enhanced_20250802_215114_253.json
+2025-08-02 21:51:24,504 - services.ai_manager - INFO - ✅ Gemini gerou 6586 caracteres
+2025-08-02 21:51:24,504 - services.ai_manager - INFO - ✅ Sucesso registrado para gemini
+2025-08-02 21:51:24,509 - services.enhanced_pre_pitch_architect - INFO - ✅ Roteiros aprimorados gerados com IA
+2025-08-02 21:51:24,511 - services.auto_save_manager - INFO - 💾 Etapa 'scripts_enhanced' salva: relatorios_intermediarios\pre_pitch\session_1754181466761_2mi0kxehm\scripts_enhanced_20250802_215124_510.json
+2025-08-02 21:51:24,514 - services.auto_save_manager - INFO - 💾 Etapa 'pre_pitch_completo_enhanced' salva: relatorios_intermediarios\pre_pitch\session_1754181466761_2mi0kxehm\pre_pitch_completo_enhanced_20250802_215124_512.json
+2025-08-02 21:51:24,514 - services.enhanced_pre_pitch_architect - INFO - ✅ Pré-pitch aprimorado gerado com sucesso
+2025-08-02 21:51:24,516 - services.auto_save_manager - INFO - 💾 Etapa 'pre_pitch_revolucionario' salva: relatorios_intermediarios\pre_pitch\session_1754181466761_2mi0kxehm\pre_pitch_revolucionario_20250802_215124_514.json
+2025-08-02 21:51:24,517 - services.enhanced_analysis_pipeline - INFO - ✅ Pré-pitch revolucionário arquitetado
+2025-08-02 21:51:24,521 - services.future_prediction_engine - INFO - 🔮 Predizendo futuro do mercado TELEMEDICINA para 48 meses
+2025-08-02 21:51:24,527 - services.auto_save_manager - INFO - 💾 Etapa 'predicoes_avancadas' salva: relatorios_intermediarios\session_1754181466761_2mi0kxehm\predicoes_avancadas_20250802_215124_523.json
+2025-08-02 21:51:24,528 - services.enhanced_analysis_pipeline - INFO - ✅ Predições futuras avançadas geradas
+2025-08-02 21:51:24,528 - routes.progress - INFO - Progress session_1754181466761_2mi0kxehm: Step 10/13 - 📊 Consolidando relatório final...
+2025-08-02 21:51:24,530 - services.auto_save_manager - INFO - 💾 Etapa 'progresso' salva: relatorios_intermediarios\logs\session_1754181466761_2mi0kxehm\progresso_20250802_215124_530.json
+2025-08-02 21:51:24,530 - services.enhanced_analysis_pipeline - INFO - 📊 Consolidando análise aprimorada
+2025-08-02 21:51:24,531 - services.enhanced_analysis_pipeline - ERROR - ❌ Erro na análise aprimorada: 'EnhancedAnalysisPipeline' object has no attribute '_analyze_risk_profile'
+2025-08-02 21:51:24,539 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_pipeline_aprimorado' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_pipeline_aprimorado_20250802_215124_538.json
+2025-08-02 21:51:24,539 - routes.analysis - ERROR - ❌ Pipeline de análise falhou: ANÁLISE APRIMORADA FALHOU: 'EnhancedAnalysisPipeline' object has no attribute '_analyze_risk_profile'
+2025-08-02 21:51:24,540 - services.auto_save_manager - INFO - 💾 Etapa 'ERRO_pipeline_analise' salva: relatorios_intermediarios\erros\session_1754181466761_2mi0kxehm\ERRO_pipeline_analise_20250802_215124_540.json
+2025-08-02 21:51:24,572 - services.auto_save_manager - INFO - 📋 Relatório consolidado salvo: relatorios_intermediarios\analise_completa\CONSOLIDADO_session_1754181466761_2mi0kxehm_20250802_215124.json
+2025-08-02 21:51:24,573 - routes.analysis - INFO - 🔄 Dados recuperados automaticamente: relatorios_intermediarios\analise_completa\CONSOLIDADO_session_1754181466761_2mi0kxehm_20250802_215124.json
+2025-08-02 21:51:24,575 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 21:51:24] "[35m[1mPOST /api/analyze HTTP/1.1[0m" 206 -
+2025-08-02 22:04:54,842 - services.quality_assurance_manager - INFO - 🔍 Iniciando validação ultra-rigorosa
+2025-08-02 22:04:54,844 - services.quality_assurance_manager - INFO - ❌ INVÁLIDA Análise validada - Score: 0.0%
+2025-08-02 22:04:54,844 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 22:04:54] "[31m[1mPOST /api/generate_pdf HTTP/1.1[0m" 422 -
+2025-08-02 22:05:11,676 - services.production_content_extractor - WARNING - ⚠️ ProductionContentExtractor está DEPRECATED - usando RobustContentExtractor
+2025-08-02 22:05:11,676 - routes.analysis - ERROR - Erro ao obter estatísticas: 'ProductionContentExtractor' object has no attribute 'get_extraction_stats'
+2025-08-02 22:05:11,677 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 22:05:11] "[35m[1mGET /api/extractor_stats HTTP/1.1[0m" 500 -
+2025-08-02 22:05:13,864 - routes.analysis - INFO - 🧪 Testando extração: https://g1.globo.com/tecnologia/
+2025-08-02 22:05:13,864 - routes.analysis - ERROR - Erro no teste de extração: 'ProductionContentExtractor' object has no attribute 'safe_extract_content'
+2025-08-02 22:05:13,865 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 22:05:13] "[35m[1mPOST /api/test_extraction HTTP/1.1[0m" 500 -
+2025-08-02 22:05:14,291 - routes.analysis - ERROR - Erro ao resetar extratores: 'ProductionContentExtractor' object has no attribute 'reset_extractor_stats'
+2025-08-02 22:05:14,291 - werkzeug - INFO - 127.0.0.1 - - [02/Aug/2025 22:05:14] "[35m[1mPOST /api/reset_extractors HTTP/1.1[0m" 500 -
